@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll_button_text">Roll the dice!</string>
+    <string name="lucky_message">Whoa you rolled a %1$d!</string>
+    <string name="unlucky_message">Keep trying!</string>
+    <string name="lucky_number_hint">What\'s your lucky number?</string>
+    <string name="dice1_image_description">Dice 1 image</string>
+    <string name="dice2_image_description">Dice 2 image</string>
+</resources>
